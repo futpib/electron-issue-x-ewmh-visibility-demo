@@ -1,0 +1,10 @@
+{
+  "name": "electron-issue-x-ewmh-visibility-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:futpib/electron-issue-x-ewmh-visibility-demo.git",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.10"
+  }
+}
