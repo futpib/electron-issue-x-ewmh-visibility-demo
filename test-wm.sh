@@ -41,3 +41,15 @@ xdotool $4
 sleep 1
 
 kill $(jobs -p)
+
+cat <<EOF
+
+
+
+
+	If you've seen visibilitychange logs above, electron works fine under $1
+
+
+
+
+EOF
